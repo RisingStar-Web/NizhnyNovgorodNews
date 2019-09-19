@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="News" representedClassName="News" syncable="YES" codeGenerationType="class">
+        <attribute name="croppedPicture" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dataSource" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" attributeType="String" defaultValueString="11.11.2018" syncable="YES"/>
+        <attribute name="favotite" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="fullDescr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="picture" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shortDescr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" attributeType="String" defaultValueString="11:00" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="viewed" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="News" positionX="-63" positionY="-18" width="128" height="195"/>
+    </elements>
+</model>
