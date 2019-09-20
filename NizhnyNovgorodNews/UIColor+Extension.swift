@@ -19,7 +19,7 @@ extension UIColor {
     //Nijnii Novgorod       -   cd201a
     
     class func color_redMain() -> UIColor {
-        return hexStringToUIColor("#cd201a")
+        return hexStringToUIColor("#914853")
     }
     
     class func color_grayMain() -> UIColor {
